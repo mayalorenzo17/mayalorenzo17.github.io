@@ -1,0 +1,21 @@
+p {font-size: 40px; color: orange; font-family: monospace;}
+
+img {
+  height: 300px;
+  width: 350px;
+}
+strong {
+  font-size: 100px;
+  color: #0747ad
+}
+idk {
+  color:#8c2e62;
+  font-size: 50px;
+}
+body {
+  background-color: #000000
+}
+ul {
+  color: #ffffff;
+  font-size: 75px
+}
